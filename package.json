@@ -24,8 +24,7 @@
     "express": "^4.17.1",
     "pg": "^7.12.0",
     "pg-hstore": "^2.3.3",
-    "sequelize": "^5.12.3",
-    "sequelize-cli": "^5.5.0"
+    "sequelize": "^5.12.3"
   },
   "devDependencies": {
     "coveralls": "^3.0.6",
